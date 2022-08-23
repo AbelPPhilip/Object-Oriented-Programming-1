@@ -8,14 +8,14 @@ If you would like to view them, please contact me through abelphilip.philip@gmai
 
 The Projects are as following:
 
-Project 1 - WIFI Diagnosis
-Project 2 - RandomNumber
-Project 3 - Encryption
-Project 4 - Property
-Project 5 - Holiday Bonus
-Project 6 - Beverage Shop
-Project 7 - Movie 
-Project 8 - GUI Exploration
-Project 9 - Intro to JUnit Tests
-Project 10 - 2D Arrays
-Project 11 - Labs and Objects
+1. Project 1 - WIFI Diagnosis
+2. Project 2 - RandomNumber
+3. Project 3 - Encryption
+4. Project 4 - Property
+5. Project 5 - Holiday Bonus
+6. Project 6 - Beverage Shop
+7. Project 7 - Movie 
+8. Project 8 - GUI Exploration
+9. Project 9 - Intro to JUnit Tests
+10. Project 10 - 2D Arrays
+11. Project 11 - Labs and Objects
