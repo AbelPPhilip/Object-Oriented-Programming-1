@@ -19,3 +19,7 @@ The Projects are as following:
 9. Project 9 - Intro to JUnit Tests
 10. Project 10 - 2D Arrays
 11. Project 11 - Labs and Objects
+
+If Repo is not public, please contact me. 
+https://github.com/AbelPPhilip/Object-Oriented-Programming-01
+
