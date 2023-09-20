@@ -20,6 +20,6 @@ The Projects are as following:
 10. Project 10 - 2D Arrays
 11. Project 11 - Labs and Objects
 
-If Repo is not public, please contact me. 
+Repo Link:
 https://github.com/AbelPPhilip/Object-Oriented-Programming-01
 
